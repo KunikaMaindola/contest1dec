@@ -1,0 +1,82 @@
+body{
+    padding: 30px;
+}
+#sec1{
+    border: 2px solid #000;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+#sec1 h1{
+    color: #000;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+.beagle{
+    color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: italic;
+font-weight: 700;
+line-height: normal;
+}
+#sec1 p{
+    color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+#sec1 a{
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+#sec2 h1{
+    color: #000;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+#sec2 image{
+    width: 1051px;
+height: 762px;
+flex-shrink: 0;
+}
+#sec2 a{
+    color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration-line: underline;
+}
+#sec3 h1{
+    color: #000;
+font-family: Inter;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration-line: underline;
+}
+#sec3 ol{
+    color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
